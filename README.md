@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer & UI/UX Designer from India.
+#### I'm a Full-Stack Developer & UI/UX Designer from India 🌏
 
 ##### NOW
 - 🧑🏻‍💻 Freelance
