@@ -3,8 +3,7 @@
 #### I'm a Full-Stack Developer & UI/UX Designer from India 🌏
 
 ##### NOW
-- 🧑🏻‍💻 Freelance
-- 🎓 B Tech 3rd year
+- 🎓 Behance [behance.net/asitymain](https://www.behance.net/asitymain)
 - 👷🏻‍♂️ Building [github.com/asity-tech](https://www.github.com/asity-tech/)
 
 ##### BIO
