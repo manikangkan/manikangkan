@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer & UI/UX Designer from India 🌏
+#### A Full-Stack Developer & UI/UX Designer from India 🌏
 
 ##### NOW
 - 🎓 Behance [behance.net/asitymain](https://www.behance.net/asitymain)
