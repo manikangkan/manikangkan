@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### A Full-Stack Developer & UI/UX Designer from India 🌏
+#### This is Manikangkan, Full-Stack Developer & UI/UX Designer from India 🌏
 
 ##### NOW
 - 🎓 Behance [behance.net/asity](https://www.behance.net/asity)
