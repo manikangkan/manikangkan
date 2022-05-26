@@ -3,7 +3,7 @@
 #### A Full-Stack Developer & UI/UX Designer from India 🌏
 
 ##### NOW
-- 🎓 Behance [behance.net/asitymain](https://www.behance.net/asitymain)
+- 🎓 Behance [behance.net/asity](https://www.behance.net/asity)
 - 👷🏻‍♂️ Building [github.com/asity-tech](https://www.github.com/asity-tech/)
 
 ##### BIO
