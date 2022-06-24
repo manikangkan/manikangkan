@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"/>
 
-#### I'm a computer engineering student from India who loves to create for the web.
+#### Manikangkan here, a computer engineering student from India who loves to create for the web 😃
 
 ##### NOW
 - 🙏🏻 Portfolio - [portfolio-manikangkandas.vercel.app](https://portfolio-manikangkandas.vercel.app/)
