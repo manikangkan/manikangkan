@@ -3,7 +3,7 @@
 #### Manikangkan here, a computer engineering student from India who loves to create for the web 😃
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning React Native, Go
+- 🌱 I’m currently learning React Native, Nextjs
 - 👷🏻 Portfolio under construction [portfolio-manikangkandas.vercel.app](https://portfolio-manikangkandas.vercel.app/)
 - 🎓 Check out my behance profile [behance.net/asity](https://www.behance.net/asity)
 - ⚙️ I usually use `.next.js` `.react.js` `.node.js` `.tailwind.css` `.figma`
