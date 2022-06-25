@@ -4,7 +4,7 @@
 
 ##### NOW
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning React Native, Nextjs
+- 🌱 I’m currently learning Rust, Nextjs
 - 👷🏻 Portfolio under construction [portfolio-manikangkandas.vercel.app](https://portfolio-manikangkandas.vercel.app/)
 
 ##### BIO
