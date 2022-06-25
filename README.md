@@ -5,7 +5,7 @@
 ##### NOW
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Rust, Nextjs
-- 👷🏻 Portfolio under construction [portfolio-manikangkandas.vercel.app](https://portfolio-manikangkandas.vercel.app/)
+- 👷🏻 Portfolio under construction [manikangkandas.vercel.app](https://manikangkandas.vercel.app/)
 
 ##### BIO
 - 🎓 Check out my behance profile [behance.net/asity](https://www.behance.net/asity)
