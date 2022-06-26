@@ -5,13 +5,14 @@
 ##### NOW
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Rust, Nextjs
-- 👷🏻 Portfolio under construction [manikangkandas.vercel.app](https://manikangkandas.vercel.app/)
+- 👷🏻 Portfolio under construction [manikangkandas
+](https://manikangkandas.vercel.app/)
 
 ##### BIO
-- 🎓 Check out my behance profile [behance.net/asity](https://www.behance.net/asity)
+- 🎓 Check out my behance profile [behance](https://www.behance.net/asity)
 - 🔨 I usually use `next.js` `react.js` `node.js` `tailwind.css` `figma`
 - 🫠 Ask me about anything related to **ui & ux designing**, **MERN Stack**, **next.js**, **react.js**, **system designing**
-- 📫 How to reach me [linkedin.com/in/manikangkandas](https://www.linkedin.com/in/manikangkandas/)
+- 📫 How to reach me [manikangkandas](https://www.linkedin.com/in/manikangkandas/)
 
 ##### STATS
 
