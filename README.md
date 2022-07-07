@@ -3,8 +3,7 @@
 #### Manikangkan here, a computer engineering student from India who loves to create for the web 😃
 
 ##### NOW
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Rust, Nextjs
+- 🌱 Currently learning Rust, Nextjs
 - 👷🏻 Portfolio under construction [manikangkandas
 ](https://manikangkandas.vercel.app/)
 
