@@ -3,7 +3,8 @@
 #### Manikangkan here, a computer engineering student from India who loves to create for the web 😃
 
 ##### NOW
-- 🌱 Currently learning Rust, Nextjs
+- 🎓 MERN stack intern at urban startup
+- 🌱 Currently learning Nextjs, Rust
 - 👷🏻 Portfolio under construction [manikangkandas
 ](https://manikangkandas.vercel.app/)
 
@@ -16,7 +17,7 @@
 ##### STATS
 
 <p>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=manikangkandas" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=manikangkandas" alt="Visitor badge"/>
 </p>
 
 ##### STUF I KNOW
