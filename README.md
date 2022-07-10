@@ -3,8 +3,7 @@
 #### Manikangkan here, a computer engineering student from India who loves to create for the web 😃
 
 ##### NOW
-- 🎓 MERN stack intern at urban startup
-- 🌱 Currently learning Nextjs, Rust
+- 🎓 Currently learning Nextjs, Rust
 - 👷🏻 Portfolio under construction [manikangkandas
 ](https://manikangkandas.vercel.app/)
 
