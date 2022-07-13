@@ -8,7 +8,7 @@
 ](https://manikangkandas.vercel.app/)
 
 ##### BIO
-- 🎓 Check out my behance profile [behance](https://www.behance.net/asity)
+- 🎓 Check out my behance profile [behance](https://www.behance.net/manikangkan)
 - 🔨 I usually use `next.js` `react.js` `node.js` `tailwind.css` `figma`
 - 🫠 Ask me about anything related to **ui & ux designing**, **mern stack**, **next.js**, **react.js**, **system designing**
 - 📫 How to reach me [manikangkandas](https://www.linkedin.com/in/manikangkandas/)
