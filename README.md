@@ -3,7 +3,7 @@
 #### Manikangkan here, a computer engineering student from India who loves to create for the web 😃
 
 ##### NOW
-- 🎓 Currently learning Nextjs, Rust
+- 🎓 Currently learning Nextjs, React Native
 - 👷🏻 Portfolio under construction [manikangkandas
 ](https://manikangkandas.vercel.app/)
 
