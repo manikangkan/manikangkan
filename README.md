@@ -46,10 +46,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![JSON Web Tokens](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
-![ReactQUery](https://img.shields.io/badge/-ReactQuery-FF4785?style=flat-square&logo=reactQuery&logoColor=white)
+![ReactQUery](https://img.shields.io/badge/-ReactQuery-EF4444?style=flat-square&logo=reactQuery&logoColor=white)
 ![NextAuth](https://img.shields.io/badge/-NextAuth-FFFFFF?style=flat-square&logo=nextAuth&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-F24E1E?style=flat-square&logo)
-![React Query](https://img.shields.io/badge/-React Query-EF4444?style=flat-square&logo)
 
 ##### STUF TO EXPLORE
 
