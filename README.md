@@ -8,7 +8,8 @@
 ](https://manikangkandas.vercel.app/)
 
 ##### BIO
-- ✏️ Check out my behance profile [manikangkan](https://www.behance.net/manikangkan){:target="_blank"}
+- ✏️ Check out my behance profile [manikangkan](https://www.behance.net/manikangkan)<a href="https://www.behance.net/manikangkan" target="_blank">manikangkan</a>
+
 - 🔨 I usually use `next.js` `mern stack` `tailwind.css` `figma`
 - 🫠 Ask me about anything related to **ui & ux designing**, **mern stack**, **next.js**, **react.js**, **system designing**
 - 📫 How to reach me [manikangkan](https://www.linkedin.com/in/manikangkandas/)
