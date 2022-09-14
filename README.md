@@ -4,7 +4,7 @@
 
 ##### NOW
 - 🎓 Currently learning Next.js, Typescript
-- 👷🏻 Portfolio under construction [manikangkandas
+- 👷🏻 Portfolio under construction [manikangkan
 ](https://manikangkandas.vercel.app/)
 
 ##### BIO
