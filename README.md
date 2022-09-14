@@ -49,7 +49,7 @@
 ![JSON Web Tokens](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 ![ReactQUery](https://img.shields.io/badge/-ReactQuery-EF4444?style=flat-square&logo=reactQuery&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI/CD-61DAFB?style=flat-square&logo)
+![CI/CD Pipeline](https://img.shields.io/badge/-CI/CD-61DAFB?style=flat-square&logo)
 
 ##### STUF TO EXPLORE
 
