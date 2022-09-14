@@ -8,8 +8,7 @@
 ](https://manikangkandas.vercel.app/)
 
 ##### BIO
-- ✏️ Check out my behance profile [manikangkan](https://www.behance.net/manikangkan)<a href="https://www.behance.net/manikangkan" target="_blank">manikangkan</a>
-
+- ✏️ Check out my behance profile [manikangkan](https://www.behance.net/manikangkan)
 - 🔨 I usually use `next.js` `mern stack` `tailwind.css` `figma`
 - 🫠 Ask me about anything related to **ui & ux designing**, **mern stack**, **next.js**, **react.js**, **system designing**
 - 📫 How to reach me [manikangkan](https://www.linkedin.com/in/manikangkandas/)
@@ -33,13 +32,15 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-ReactNative-F24E1E?style=flat-square&logo=react&logoColor=black)
 ![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![NextAuth](https://img.shields.io/badge/-NextAuth-000000?style=flat-square&logo=next.js)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitlab)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -48,8 +49,7 @@
 ![JSON Web Tokens](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 ![ReactQUery](https://img.shields.io/badge/-ReactQuery-EF4444?style=flat-square&logo=reactQuery&logoColor=white)
-![NextAuth](https://img.shields.io/badge/-NextAuth-FFFFFF?style=flat-square&logo=nextAuth&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI/CD-F24E1E?style=flat-square&logo)
+![CI/CD](https://img.shields.io/badge/-CI/CD-61DAFB?style=flat-square&logo)
 
 ##### STUF TO EXPLORE
 
