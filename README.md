@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"/>
 
-#### Manikangkan here, a full stack engineer and UI/UX designer with 2+ years of experience in the MERN stack. Practical problem-solver with a passion for creating intuitive designs. Always seeking to improve skills and take on new challenges in my career. Unique blend of technical expertise and creative flair.
+#### Manikangkan here, a full stack engineer and UI/UX designer with 1+ years of experience in the MERN stack. Practical problem-solver with a passion for creating intuitive designs. Always seeking to improve skills and take on new challenges in my career. Unique blend of technical expertise and creative flair.
 
 ##### NOW
 - 🎓 Currently learning Next.js, Typescript
