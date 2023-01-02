@@ -3,7 +3,7 @@
 #### Manikangkan here, a full stack engineer and UI/UX designer with 1+ years of experience in the MERN stack. Practical problem-solver with a passion for creating intuitive designs. Always seeking to improve skills and take on new challenges in my career. Unique blend of technical expertise and creative flair.
 
 ##### NOW
-- 🎓 Currently learning Animation, Video Editing
+- 🎓 Currently learning Motion Designing, Video Editing
 - 👷🏻 Portfolio under construction [manikangkan
 ](https://manikangkandas.vercel.app/)
 
