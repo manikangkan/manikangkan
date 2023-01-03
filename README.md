@@ -4,8 +4,8 @@
 
 ##### NOW
 - 🎓 Currently learning Motion Designing, Video Editing
-- 👷🏻 Portfolio under construction [manikangkan
-](https://manikangkandas.vercel.app/)
+- 👷🏻 Checkout what I'm building [asity.tech
+](https://www.youtube.com/@asity5476)
 
 ##### BIO
 - 🖌️ Behance profile [manikangkan](https://www.behance.net/manikangkan)
