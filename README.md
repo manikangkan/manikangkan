@@ -21,6 +21,8 @@
 
 ##### STUF I KNOW
 
+![UI/UX Designing](https://img.shields.io/badge/-UI/UX-61DAFB?style=flat-square&logo)
+![Logo Designing](https://img.shields.io/badge/-Logo-0081CB?style=flat-square&logo)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
