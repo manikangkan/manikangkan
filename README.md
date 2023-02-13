@@ -7,9 +7,9 @@
 - 👷🏻 Building [asity.tech](https://www.youtube.com/@asity5476)
 
 ##### BIO
-- 🖌️ Showcasing design skills on [manikangkan](https://www.behance.net/manikangkan)
+- 🖌️ Showcasing design skills on [Behance](https://www.behance.net/manikangkan)
 - 👷‍♂️ Preferred tech stack `next.js` `mern stack` `tailwind.css` `figma`
-- 🫡 Talk to me about anything **ui & ux designing**, **mern stack**, **next.js**, **react.js**, **system designing**
+- 🫡 Talk to me about anything **ui & ux designing**, **mern stack**, **next.js**, **react.js**, **system designing**, **product designing & development**
 - 📫 Hit me up at [manikangkan](https://www.linkedin.com/in/manikangkandas/)
 
 ##### STATS
