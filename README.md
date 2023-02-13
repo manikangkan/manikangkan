@@ -3,15 +3,14 @@
 ####  Manikangkan here, a no-nonsense full-stack engineer and UI/UX designer with 1+ years of experience in the MERN stack. I don't mess around when it comes to solving problems and crafting intuitive designs. I'm always on the hunt for new challenges to step up my game, and my unique blend of technical expertise and creative flair makes me a force to be reckoned with in the tech world.
 
 ##### NOW
-- 🎓 Currently learning Motion Designing, Video Editing
-- 👷🏻 Checkout what I'm building [asity.tech
-](https://www.youtube.com/@asity5476)
+- 🎓 Currently mastering Motion Designing & Video Editing
+- 👷🏻 Building [asity.tech](https://www.youtube.com/@asity5476)
 
 ##### BIO
-- 🖌️ Behance profile [manikangkan](https://www.behance.net/manikangkan)
-- 👷‍♂️ Usually like to use `next.js` `mern stack` `tailwind.css` `figma`
-- 🫡 Ask me about anything related to **ui & ux designing**, **mern stack**, **next.js**, **react.js**, **system designing**
-- 📫 React me at [manikangkan](https://www.linkedin.com/in/manikangkandas/)
+- 🖌️ Showcasing design skills on [manikangkan](https://www.behance.net/manikangkan)
+- 👷‍♂️ Preferred tech stack `next.js` `mern stack` `tailwind.css` `figma`
+- 🫡 Talk to me about anything **ui & ux designing**, **mern stack**, **next.js**, **react.js**, **system designing**
+- 📫 Hit me up at [manikangkan](https://www.linkedin.com/in/manikangkandas/)
 
 ##### STATS
 
