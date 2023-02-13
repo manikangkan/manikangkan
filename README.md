@@ -1,6 +1,6 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"/>
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"/>
 
-#### I'm Manikangkan, a no-nonsense full-stack engineer and UI/UX designer with 1+ years of experience in the MERN stack. I don't mess around when it comes to solving problems and crafting intuitive designs. I'm always on the hunt for new challenges to step up my game, and my unique blend of technical expertise and creative flair makes me a force to be reckoned with in the tech world.
+####  Manikangkan here, a no-nonsense full-stack engineer and UI/UX designer with 1+ years of experience in the MERN stack. I don't mess around when it comes to solving problems and crafting intuitive designs. I'm always on the hunt for new challenges to step up my game, and my unique blend of technical expertise and creative flair makes me a force to be reckoned with in the tech world.
 
 ##### NOW
 - 🎓 Currently learning Motion Designing, Video Editing
