@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"/>
 
-####  A polymathic trinity : Software Engineering, Design, and Philosophical Acumen - forging the future with each keystroke.
+####  A polymathic trinity : Software Engineering, Design & Philosophical Acumen - forging the future with each keystroke.
 
 ##### NOW
 - 🎓 Currently mastering Motion Designing & Video Editing
