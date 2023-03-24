@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"/>
 
-####  Manikangkan here, a full-stack powerhouse who blends technical savvy with a fierce passion for design. With over a year of experience in the MERN stack, I tackle problems with ruthless efficiency and craft intuitive designs that leave a lasting impact. I'm never one to back down from a challenge and always strive to raise the bar in the tech world with my unique blend of technical acumen and creative fire.
+####  A polymathic trinity : Software Engineering, Design, and Philosophical Acumen - forging the future with each keystroke.
 
 ##### NOW
 - 🎓 Currently mastering Motion Designing & Video Editing
