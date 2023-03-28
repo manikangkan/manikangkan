@@ -63,3 +63,9 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+##### GITHUB STATS
+![](https://github-readme-stats.vercel.app/api?username=manikangkan&theme=react&hide_border=true&include_all_commits=true&count_private=true&card_width=1012)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=manikangkan&theme=react&hide_border=true&card_width=1012)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manikangkan&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=1012)
+
