@@ -12,11 +12,12 @@
 - 🫡 Talk to me about anything `ui & ux designing` `mern stack` `next.js` `react.js` `system designing` `product designing & development`
 - 📫 Hit me up at [Linkedin](https://www.linkedin.com/in/manikangkandas/)
 
-##### STATS
+##### BLISS
+| Hi🙋🏻‍♂️ | Listening |
+| --- | --- |
+|<p><img src="https://visitor-badge.glitch.me/badge?page_id=manikangkandas" alt="Visitor badge"/></p>|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7q2zepezlscsq70hohn4bicbd&cover_image=true&theme=novatorem&show_offline=false&background_color=20232A&interchange=false&bar_color=61DAFB&bar_color_cover=false&)](https://github.com/kittinan/spotify-github-profile)|
 
-<p>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=manikangkandas" alt="Visitor badge"/>
-</p>
+
 
 ##### STUF I KNOW
 
@@ -64,8 +65,15 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-##### GITHUB STATS
-![](https://github-readme-stats.vercel.app/api?username=manikangkan&theme=react&hide_border=true&include_all_commits=true&count_private=true&card_width=1012)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=manikangkan&theme=react&hide_border=true&card_width=1012)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manikangkan&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=1012)
+
+
+<details>
+<summary>STATS</summary>
+  
+| GitHub Stats | GitHub Streak | Top Languages |
+| --- | --- | --- |
+| ![](https://github-readme-stats.vercel.app/api?username=manikangkan&theme=react&hide_border=true&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=manikangkan&theme=react&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manikangkan&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
+
+</details>
+
 
