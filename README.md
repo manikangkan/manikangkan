@@ -58,10 +58,10 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-##### BLISS
+<!-- ##### BLISS
 | 🙋🏻‍♂️ | 🎧 |
 | --- | --- |
-|<p><img src="https://visitor-badge.glitch.me/badge?page_id=manikangkandas" alt="Visitor badge"/></p>|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7q2zepezlscsq70hohn4bicbd&cover_image=true&theme=novatorem&show_offline=false&background_color=20232A&interchange=false&bar_color=61DAFB&bar_color_cover=false&)](https://github.com/kittinan/spotify-github-profile)|
+|<p><img src="https://visitor-badge.glitch.me/badge?page_id=manikangkandas" alt="Visitor badge"/></p>|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7q2zepezlscsq70hohn4bicbd&cover_image=true&theme=novatorem&show_offline=false&background_color=20232A&interchange=false&bar_color=61DAFB&bar_color_cover=false&)](https://github.com/kittinan/spotify-github-profile)| -->
 
 <details>
 <summary>STATS</summary>
