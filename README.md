@@ -46,16 +46,18 @@
 ![ReactQUery](https://img.shields.io/badge/-ReactQuery-EF4444?style=flat-square&logo=reactQuery&logoColor=white)
 ![ReactTable](https://img.shields.io/badge/-ReactTable-EF4444?style=flat-square&logo=reactTable&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-61DAFB?style=flat-square&logo)
+![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![React Testing Library](https://img.shields.io/badge/-RTL-E33332?style=flat-square&logo=testing-library&logoColor=white)
+![Webflow](https://img.shields.io/badge/-Webflow-E33332?style=flat-square&logo=testing-library&logoColor=white)
+![Wix](https://img.shields.io/badge/-Wix-E33332?style=flat-square&logo=testing-library&logoColor=white)
 
 ##### STUF TO EXPLORE
 
-![React Testing Library](https://img.shields.io/badge/-RTL-E33332?style=flat-square&logo=testing-library&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <!-- ##### BLISS
