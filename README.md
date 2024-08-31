@@ -68,7 +68,8 @@
 <details>
 <summary>STATS</summary>
 
-[![time](https://wakatime.com/badge/user/5527de40-d2df-4a1c-936b-ab1a65640e7c.svg)](https://wakatime.com/@5527de40-d2df-4a1c-936b-ab1a65640e7c)
+#####
+[![wakatime](https://wakatime.com/badge/user/5527de40-d2df-4a1c-936b-ab1a65640e7c.svg)](https://wakatime.com/@5527de40-d2df-4a1c-936b-ab1a65640e7c)
   
 | GitHub Stats | GitHub Streak | Top Languages |
 | --- | --- | --- |
