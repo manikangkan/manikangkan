@@ -12,7 +12,7 @@
 - 🫡 Talk to me about anything `ui & ux designing` `mern stack` `next.js` `react.js` `system designing` `product designing & development`
 - 📫 Hit me up at [Linkedin](https://www.linkedin.com/in/manikangkandas/)
 
-##### STUF I KNOW
+##### STUFF I KNOW
 
 ![UI/UX Designing](https://img.shields.io/badge/-UI/UX-61DAFB?style=flat-square&logo)
 ![Logo Designing](https://img.shields.io/badge/-Logo-0081CB?style=flat-square&logo)
