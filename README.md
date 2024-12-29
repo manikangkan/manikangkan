@@ -1,16 +1,16 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"/>
+### wassup <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"/>
 
-####  A polymathic trinity : Software Engineering, Design & Philosophical Acumen - forging the future with each keystroke.
+####  software engineering + design + philosophical acumen combined to build impactful solutions.
 
 ##### NOW
-- 🎓 Currently mastering Motion Designing & Video Editing
-- 👷🏻 Building [asity.tech](https://www.youtube.com/@asity5476)
+- 🎓 currently learning motion design and video editing.
+- 👷🏻 building [asity.tech](https://www.youtube.com/@asity5476)
 
 ##### BIO
-- 🖌️ Showcasing design skills on [Behance](https://www.behance.net/manikangkan)
-- 👷‍♂️ Preferred tech stack `next.js` `mern stack` `tailwind.css` `figma`
-- 🫡 Talk to me about anything `ui & ux designing` `mern stack` `next.js` `react.js` `system designing` `product designing & development`
-- 📫 Hit me up at [Linkedin](https://www.linkedin.com/in/manikangkandas/)
+- 🖌️ showcasing design projects on > [Behance](https://www.behance.net/manikangkan)
+- 👷‍♂️ preferred tech stack > `next.js` `mern stack` `tailwind.css` `figma` `typescript`
+- 🫡 talk to me about anything > `ui & ux designing` `mern stack` `next.js` `react.js` `system designing` `product designing & development`
+- 📫 hit me up at > [Linkedin](https://www.linkedin.com/in/manikangkandas/)
 
 ##### STUFF I KNOW
 
