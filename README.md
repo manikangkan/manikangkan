@@ -40,12 +40,12 @@ Software Engineer and UI/UX Designer with over 2.5 years of experience leading t
 
 ### 🎓 Bachelor of Technology in Information Technology
 **Guwahati University Institute of Science and Technology (GUIST), Guwahati, India**  
-2019 - 2023  
-CGPA: 8.03
+`2019` - `2023`
+CGPA: `8.03`
 
 ## 💼 Work Experience
 
-### 👨‍💻 Senior Frontend Engineer and UI/UX Designer
+### 👨‍💻 Software Engineer and UI/UX Designer
 **Techwondoe, Auckland, New Zealand | September 2021 - Present**
 
 - 🔥 Led frontend development for enterprise-grade web and mobile applications
